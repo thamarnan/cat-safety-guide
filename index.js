@@ -1,6 +1,3 @@
-// Lambda Function code for Alexa.
-// Paste this into your index.js file. 
-
 const Alexa = require("ask-sdk");
 const https = require("https");
 
