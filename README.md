@@ -1,5 +1,5 @@
 
-# Alexa App Cat Safety Guide
+# Alexa App - Cat Safety Guide
 
 
 <p align="center"> 
