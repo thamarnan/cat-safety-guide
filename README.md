@@ -29,3 +29,10 @@ Application Status: Pending on Certification
 #### Method Two, Ask Skill to get answer  
 > **Alexa, ask cat safety guide if cat can eat banana**  
 > **Alexa, ask cat safety guide to show me cat tips**  
+
+
+### Future plans/features  
+Access local weather and warn if temperature is too high or too cold  
+Adding different breeds information and tips on individual breeds  
+Adding images to supports visual presentation for Echo Show and Echo Spot  
+Adding reminder to put on monthly medication  
