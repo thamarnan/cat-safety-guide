@@ -12,13 +12,13 @@ App for cats owner who care for their diets and environments
   </p>
   
 
-### Back-end:  
+## Back-end:  
 Programming Framework: Node.js  
 Platform: AWS Lambda, Serverless service   
 Application Status: Pending on Certification  
 
 
-### Directions and How to Operate:  
+## Directions 
 #### Method One, Open skill, then ask question  
 > **Alexa, open cat safety guide**  
 > ... alexa welcome message ...  
@@ -33,7 +33,7 @@ Application Status: Pending on Certification
 
 
 
-### Future plans/features:  
+## Future plans/features:  
 Access local weather and warn if temperature is too high or too cold  
 Adding different breeds information and tips on individual breeds  
 Adding images to supports visual presentation for Echo Show and Echo Spot  
