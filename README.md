@@ -17,6 +17,7 @@ Programming Framework: Node.js
 Platform: AWS Lambda, Serverless service   
 Application Status: Pending on Certification  
 
+
 ### Directions and How to Operate:  
 #### Method One, Open skill, then ask question  
 > **Alexa, open cat safety guide**  
@@ -31,7 +32,8 @@ Application Status: Pending on Certification
 > **Alexa, ask cat safety guide to show me cat tips**  
 
 
-### Future plans/features  
+
+### Future plans/features:  
 Access local weather and warn if temperature is too high or too cold  
 Adding different breeds information and tips on individual breeds  
 Adding images to supports visual presentation for Echo Show and Echo Spot  
