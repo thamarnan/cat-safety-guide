@@ -15,7 +15,8 @@ App for cats owner who care for their diets and environments
 ## Back-end:  
 Programming Framework: Node.js  
 Platform: AWS Lambda, Serverless service   
-Application Status: Pending on Certification  
+Application Status: Certified and delivered to marketplace  
+Reference: [Amazon.com Marketplace]( https://www.amazon.com/Anan-Roderick-Th-safety-guide/dp/B07GZD7ZDN/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1535843786&sr=1-1&keywords=cat+safety+guide)  
 
 
 ## Directions 
