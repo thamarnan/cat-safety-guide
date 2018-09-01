@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-<img src="https://github.com/thamarnan/cat-safety-guide/blob/master/images/logocat_small.jpg?raw=true">  
+<img src="https://github.com/thamarnan/cat-safety-guide/blob/master/images/alexa_icon.png?raw=true">  
   </p>
 
 <p align="center"> 
